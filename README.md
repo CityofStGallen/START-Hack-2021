@@ -43,6 +43,10 @@ This repository contains the resources and information provided by the City of S
   + 11a In Statistics Portal: http://stada2.sg.ch/
   + 11b In Open Data Portal: https://daten.sg.ch/explore/?refine.keyword=Gemeindefinanzen&disjunctive.modified&disjunctive.dcat.creator&disjunctive.theme&disjunctive.keyword&sort=modified
 
+__The usage and automatic integration of datasets is highly recommended.
+For a possible integration in the participation portal we can offer you a test account for a participative process__
+
+
 ## Availabilities
 
 _In general:_ At most times available for meetings during Start Hack 2021.
