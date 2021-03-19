@@ -30,7 +30,7 @@ This repository contains the resources and information provided by the City of S
 * 01 GitHub Repository of the City for the Hack: https://github.com/CityofStGallen/START-Hack-2021
 * 02 Open Data Portal for the City of St.Gallen: https://daten.stadt.sg.ch/pages/home0/
 * 03 Open Data Portal City St.Gallen – Budget Data (english): https://daten.stadt.sg.ch/explore/?sort=modified&disjunctive.modified&disjunctive.theme&disjunctive.keyword&disjunctive.publisher&q=english+data
-* 04 Statistics Budget Data (Translated Metadata) (Source stada2): https://github.com/CityofStGallen/START-Hack-2021/blob/main/stada2_metainfo_gemeindefinanzen.csv
+* 04 Statistics Budget Data (Translated Metadata) (Source stada2): https://github.com/CityofStGallen/START-Hack-2021/blob/main/04_stada2_metainfo_gemeindefinanzen.csv
   + For Data see 11a or 11b; also other cities available!
 * 05 Metadata File for suggested savings: Github
 
