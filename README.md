@@ -9,17 +9,17 @@ This repository contains the resources and information provided by the City of S
 
 ### Scope of Action
 
-* Present _context of costs_ e.g. you can’t save money for upkeeping the street without getting more potholes - show dependencies between expenses and product quality / citizens satisfaction
-* dealing with the _complexity of budget data_ (reduce complexity/usability)
-* Ideally (but not mandatory) integration to the _existing digital participation plattform_ (Konova)
+* Present context of costs e.g. you can’t save money for upkeeping the street without getting more potholes - show dependencies between expenses and product quality / citizens satisfaction
+* dealing with the complexity of budget data (reduce complexity/usability)
+* Ideally (but not mandatory) integration to the existing digital participation plattform (Konova AG)
 
 ### Principles
 
-* _Transparency_ to budget data
-* _Participatory budgeting_
-* _Benchmarking_ to other cities
-* Using _wisdom of the crowds_ (participation of people) to save money and/or spend it to favored citizens projects
-* _Enabling people_ to participate for their own cities budget
+* Transparency to budget data
+* Participatory budgeting
+* Benchmarking to other cities
+* Using wisdom of the crowds (participation of people) to save money and/or spend it to favored citizens projects
+* Enabling people to participate for their own cities budget
 
 
 
