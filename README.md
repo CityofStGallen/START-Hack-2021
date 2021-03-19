@@ -1,7 +1,28 @@
 # START-Hack-2021
 This repository contains the resources and information provided by the City of St.Gallen for the participants of the START Hack 2021.
 
-## Challenge
+## Your Challenge
+
+### Milestones
+1. Making a proposal (PoC) for a tool on how to involve the population in __participatory budgeting.__ 
+2. Develop a proposal (PoC) for action on how participation on __savings suggestions__ might look like. Solution can be a prototyped or coded __analysis and partizipation tool__ to identify potential savings and to publicly collect these inputs in a partizipative manner.
+
+### Scope of Action
+
+* Present _context of costs_ e.g. you can’t save money for upkeeping the street without getting more potholes - show dependencies between expenses and product quality / citizens satisfaction
+* dealing with the _complexity of budget data_ (reduce complexity/usability)
+* Ideally (but not mandatory) integration to the _existing digital participation plattform_ (Konova)
+
+### Principles
+
+* _Transparency_ to budget data
+* _Participatory budgeting
+* _Benchmarking_ to other cities
+* Using _wisdom of the crowds_ (participation of people) to save money and/or spend it to favored citizens projects
+* _Enabling people_ to participate for their own cities budget
+
+
+
 
 ## Data Sources
 
