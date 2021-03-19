@@ -33,6 +33,7 @@ This repository contains the resources and information provided by the City of S
 * 04 Statistics Budget Data (Translated Metadata) (Source stada2): https://github.com/CityofStGallen/START-Hack-2021/blob/main/04_stada2_metainfo_gemeindefinanzen.csv
   + For Data see 11a or 11b; also other cities available!
 * 05 Metadata template (proposal) for suggested savings: https://github.com/CityofStGallen/START-Hack-2021/blob/main/05_Metadata%20template%20(proposal)%20for%20suggested%20savings.xlsx
+
 * 06 Statistics Portal Kanton SG (including other structural data like age etc.): http://stada2.sg.ch/
 * 07 National OGD Portal (opendata.swiss): https://opendata.swiss/de
 * 08 Open Data St.Gallen (Canton): https://daten.sg.ch/pages/home0/
