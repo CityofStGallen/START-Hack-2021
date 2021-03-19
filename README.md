@@ -1,5 +1,5 @@
 # START-Hack-2021
-This repository contains the resources and information provided by the City of St.Gallen for the participants of the START Hack 2021. For more information about St.Gallen and its Smart City initiative and projects, take a look into the [Start Hack Presentation (English)](https://github.com/CityofStGallen/START-Hack-2021/blob/main/00%20StartHack%20Presentation%20Stadt%20StGallen.pptx) or visit our [Website (German)](https://www.stadt.sg.ch/home/wirtschaft-wohnen/smarte-stadt.html).
+This repository contains the resources and information provided by the City of St.Gallen for the participants of the START Hack 2021. For more information about St.Gallen and its Smart City initiative and projects, take a look into the [Start Hack Presentation (English)](https://github.com/CityofStGallen/START-Hack-2021/blob/main/00_StartHack%20Presentation%20Stadt%20StGallen.pptx) or visit our [Website (German)](https://www.stadt.sg.ch/home/wirtschaft-wohnen/smarte-stadt.html).
 
 ## Your Challenge
 
@@ -26,7 +26,7 @@ This repository contains the resources and information provided by the City of S
 
 ## Data Sources
 
-* 00 StartHack Presentation Stadt StGallen: https://github.com/CityofStGallen/START-Hack-2021/blob/main/00%20StartHack%20Presentation%20Stadt%20StGallen.pptx 
+* 00 StartHack Presentation Stadt StGallen: https://github.com/CityofStGallen/START-Hack-2021/blob/main/00_StartHack%20Presentation%20Stadt%20StGallen.pptx 
 * 01 GitHub Repository of the City for the Hack: https://github.com/CityofStGallen/START-Hack-2021
 * 02 Open Data Portal for the City of St.Gallen: https://daten.stadt.sg.ch/pages/home0/
 * 03 Open Data Portal City St.Gallen – Budget Data (english): https://daten.stadt.sg.ch/explore/?sort=modified&disjunctive.modified&disjunctive.theme&disjunctive.keyword&disjunctive.publisher&q=english+data
