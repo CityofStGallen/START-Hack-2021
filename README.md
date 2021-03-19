@@ -16,7 +16,7 @@ This repository contains the resources and information provided by the City of S
 ### Principles
 
 * _Transparency_ to budget data
-* _Participatory budgeting
+* _Participatory budgeting_
 * _Benchmarking_ to other cities
 * Using _wisdom of the crowds_ (participation of people) to save money and/or spend it to favored citizens projects
 * _Enabling people_ to participate for their own cities budget
